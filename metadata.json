@@ -1,0 +1,6 @@
+{
+  "name": "AI MADHUR SANGEET - AI Song Generator",
+  "description": "Create melodic, soul-stirring songs, lyrics, voices, and music with AI Madhur Sangeet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

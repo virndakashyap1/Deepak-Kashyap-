@@ -1,0 +1,18 @@
+{
+  "name": "AI MADHUR SANGEET - AI Song Generator",
+  "short_name": "Madhur Sangeet",
+  "description": "Create melodic, soul-stirring songs, lyrics, voices, and music with AI Madhur Sangeet.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#17132d",
+  "theme_color": "#28213e",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
